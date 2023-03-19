@@ -1,0 +1,20 @@
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+body{
+  background-color: rgb(13, 17, 23);
+  color: rgb(201, 209, 217);
+}
+.kullaniciIsmi {
+  color: rgb(139, 148, 158);
+  font-size: 20px;
+}
+a {
+  color: rgb(139, 148, 158);
+  text-decoration: none;
+}
+strong {
+  font-weight: 900;
+}
